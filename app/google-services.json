@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990024277661",
+    "firebase_url": "https://a2lol-40068.firebaseio.com",
+    "project_id": "a2lol-40068",
+    "storage_bucket": "a2lol-40068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990024277661:android:0c10006aa847cc09",
+        "android_client_info": {
+          "package_name": "io.github.froger.instamaterial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990024277661-mekc7f51dcjn1e5f364m75k8esnu1r9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.froger.instamaterial",
+            "certificate_hash": "ea6e4d451b776339d2b6ce82d3e7bf3bcf25299f"
+          }
+        },
+        {
+          "client_id": "990024277661-a5jbkb8jb4gipsgvi7hj8tuml7n5isne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkNjRrkxvpSpboAuf837-IXtbor7LZok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990024277661-a5jbkb8jb4gipsgvi7hj8tuml7n5isne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
